@@ -1,6 +1,10 @@
 #include <stdio.h>
+
 #include <time.h>
+
 #include <stdio.h>
+
+
 
 /**
 
@@ -15,6 +19,10 @@
 * Returns: 0
 
 */
+
+int main(void)
+
+{
 
 int n;
 
@@ -50,4 +58,3 @@ else if (n < 0)
 
 Returns (0);
 
-}
